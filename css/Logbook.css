@@ -1,0 +1,15 @@
+body{
+    font-family: sans-serif;
+    background-color:  rgb(25, 145, 95);
+}
+
+div{
+    margin: 70px 100px;
+    background-color: aliceblue;
+    width: 1000px;
+    height: 500px;
+    border: 5px;
+    border-radius: 5px 5px 5px 5px;
+    text-align: center;
+    box-shadow: rgba(202, 202, 216, 0.2) 0px 7px 29px 0px;
+}
